@@ -14,7 +14,7 @@ transitioning the field from semi-quantitative parameter comparison to probabili
   - **Sequential Stopping Rule**: determines sufficient sample size via evidence convergence.
 
 This repository provides an end-to-end pipeline for statistical testing and visualization, including NHST, TOST, Bayesian ROPE/HDI,
-and Bayesian sequential analysis, validated on SMBJ datasets such as NiS4 (multi-bias conditions), MoZn, and OPE2.
+and Bayesian sequential analysis, validated on SMBJ datasets such as NiS<sub>4</sub> (multi-bias conditions), MoZn, and OPE2.
 
 ## Dependencies
 
