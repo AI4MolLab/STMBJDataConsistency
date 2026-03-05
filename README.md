@@ -66,4 +66,4 @@ Datasets are not included in this repository due to file size limitations.
 - Bailin Gao
 - Liying Wang
 - Hengzhi Huang
-- Zhichao Pan`(panzhichao@guet.edu.cn)` 
+- Zhichao Pan (panzhichao@guet.edu.cn) 
