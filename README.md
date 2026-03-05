@@ -22,3 +22,33 @@ Install via:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Code / Notebooks
+
+### Simulated Data
+- **File:** `simulated_data.ipynb`  
+- **Description:** .
+
+### Statistical Testing
+- **Files:**  
+  - `main(MoZn).ipynb`  
+  - `main(OPE2).ipynb`  
+  - `main(NiS4-0.1V).ipynb`  
+  - `main(NiS4-0.2V).ipynb`
+  - `main(NiS4-0.3V).ipynb`
+  - `main(NiS4-0.4V).ipynb`
+  - `main(NiS4-0.1V~0.2V).ipynb`
+  - `main(NiS4-0.1V~0.4V).ipynb`
+- **Description:** End-to-end statistical testing workflow for different datasets/conditions, including significance testing, equivalence testing, Bayesian inference, and Bayesian sequential analysis.
+
+## Data
+ 
+Datasets are not included in this repository due to file size limitations.
+
+## Authors
+
+- Ziyang Wang
+- Bailin Gao
+- Liying Wang
+- Hengzhi Huang
+- Zhichao Pan`(panzhichao@guet.edu.cn)` 
