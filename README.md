@@ -3,7 +3,8 @@ Unified Statistical Framework for Quantitative Assessment of Data Consistency in
 
 ## Overview
 
-[Figure1.TIF](https://github.com/user-attachments/files/27522822/Figure1.TIF)
+![Figure1](https://github.com/user-attachments/assets/6ea7dfb2-add8-4172-b2fb-bc560e9aa451)
+
 We introduce a Unified Statistical Framework to quantitatively assess data consistency in single-molecule break junction (SMBJ) experiments.
 The framework integrates NHST, TOST equivalence testing, and Bayesian inference,
 transitioning the field from semi-quantitative parameter comparison to probabilistic metrology and providing a standardized toolset for validating single-molecule devices.
