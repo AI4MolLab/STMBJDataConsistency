@@ -40,8 +40,8 @@ pip install -r requirements.txt
 
 ## Code / Notebooks
 
-### Simulated Data
-- **File:** `simulated_data.ipynb`  
+### Data_simulation
+- **File:** `Data_simulation.ipynb`  
 - **Description:** Generation and visualization of simulated data, including peak-position sampling and distribution analysis.
 
 ### Statistical Testing
