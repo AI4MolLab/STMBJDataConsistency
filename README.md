@@ -1,4 +1,4 @@
-[Figure1.TIF](https://github.com/user-attachments/files/27522812/Figure1.TIF)# STMBJDataConsistency
+# STMBJDataConsistency
 Unified Statistical Framework for Quantitative Assessment of Data Consistency in Single-Molecule Electronics
 
 ## Overview
