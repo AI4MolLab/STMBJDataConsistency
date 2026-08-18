@@ -1,5 +1,5 @@
 # STMBJDataConsistency
-A Statistical Framework for Probabilistic Assessment of Data Consistency in Single-Molecule Conductance Measurements
+A Statistical Framework for Probabilistic Assessment of Data Consistency in Single-Molecule Conductance Measurements. https://doi.org/10.1021/acs.analchem.6c03320
 
 ## Overview
 
