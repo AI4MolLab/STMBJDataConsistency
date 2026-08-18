@@ -4,8 +4,6 @@ A Statistical Framework for Probabilistic Assessment of Data Consistency in Sing
 ## Overview
 
 <img width="1073" height="460" alt="image" src="https://github.com/user-attachments/assets/1e1cc6a2-669d-42f8-a75b-4333ed07729f" />
-
-<img width="9075" height="5724" alt="幻灯片2" src="https://github.com/user-attachments/assets/c5738fc9-38a4-4acf-bc63-f84939cd7db3" />
 We introduce a Statistical Framework to quantitatively assess data consistency in single-molecule break junction (SMBJ) experiments.
 The framework integrates TOST equivalence testing and Bayesian inference,
 transitioning the field from semi-quantitative parameter comparison to probabilistic metrology and providing a standardized toolset for validating single-molecule devices.
@@ -60,7 +58,7 @@ pip install -r requirements.txt
 
 ## Data
  
-Datasets are not included in this repository due to file size limitations.
+Supporting data for this study is available from the corresponding author on reasonable request.
 
 ## Authors
 
